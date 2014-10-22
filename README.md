@@ -12,11 +12,6 @@ bird" immediately popped into my mind.
 The graphic proved to be popular, and in the spirit of its message, making it
 open source seemed the way to go. So here we are.
 
-<object data="//raw.githubusercontent.com/xenomachina/fork-off/master/fork-off.svg" type="image/svg+xml">
-If your browser supported SVG you'd see the graphic here.
-</object>
-
-
 
 License
 --
